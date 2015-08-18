@@ -50,8 +50,6 @@ class Group:
 		return numbers
 
 group = Group()
-group.add_person("Sam", "sfarid93@gmail.com")
-group.add_person("David", "david.w.aspinall@mgmail.com")
 group.assign_numbers()
 
 
