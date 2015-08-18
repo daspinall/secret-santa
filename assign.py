@@ -11,7 +11,12 @@ peopleToEmails = {
 
 
 
-
-def secret_santa(people):
+#Returns a dictionary of numbers assigned to other numbers
+def secret_santa(num_people):
 	
+	assignments = {}
+	used_people = []
 
+	while len(assignments.
+
+	return assignments
